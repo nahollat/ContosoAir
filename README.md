@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/nahollat/ContosoAir%20-%20Integrate%20Repo%20with%20DevOps/_apis/build/status/nahollat.ContosoAir?branchName=master)](https://dev.azure.com/nahollat/ContosoAir%20-%20Integrate%20Repo%20with%20DevOps/_build/latest?definitionId=25&branchName=master)
 
 # Microsoft.Github CI Demo
 
