@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/nahollat/83a18787-bbc7-4a3b-8abe-ad65018b6589/d525b584-6098-44b0-99b1-0f152af0de89/_apis/work/boardbadge/7286fedd-a9fe-420e-993e-7174f7c5f50a)](https://dev.azure.com/nahollat/83a18787-bbc7-4a3b-8abe-ad65018b6589/_boards/board/t/d525b584-6098-44b0-99b1-0f152af0de89/Microsoft.RequirementCategory)
 
 [![Build Status](https://dev.azure.com/nahollat/ContosoAir%20-%20Integrate%20Repo%20with%20DevOps/_apis/build/status/nahollat.ContosoAir?branchName=master)](https://dev.azure.com/nahollat/ContosoAir%20-%20Integrate%20Repo%20with%20DevOps/_build/latest?definitionId=25&branchName=master)
 
